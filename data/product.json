@@ -1,0 +1,55 @@
+[{
+    "_id": {
+      "$oid": "6252e1413967da371c5c4936"
+    },
+    "name": "Laptop Acer Aspire",
+    "price": 752.5822141089947,
+    "image": "./img/laptop2.png",
+    "category": "C2",
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "6252e1923967da371c5c4939"
+    },
+    "name": "Mic Wireless",
+    "price": 479.28881497652833,
+    "image": "./img/headphone3.png",
+    "category": "C1",
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "6252e19e3967da371c5c493b"
+    },
+    "name": "Mic CPerro",
+    "price": 156.88683089569787,
+    "image": "./img/headphone.png",
+    "category": "C1",
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "6252e1b03967da371c5c493d"
+    },
+    "name": "Solo Mic",
+    "price": 817.6255177954821,
+    "image": "./img/headphone1.png",
+    "category": "C1",
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "6252e1c23967da371c5c493f"
+    },
+    "name": "Ellite Pro Book 15'6 7500U",
+    "price": 272.31231625646654,
+    "image": "./img/laptop.png",
+    "category": "C2",
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "6252e1d33967da371c5c4941"
+    },
+    "name": "Tablet Red 8500U 2TB",
+    "price": 980.4518739024128,
+    "image": "./img/laptop1.png",
+    "category": "C2",
+    "__v": 0
+  }]
